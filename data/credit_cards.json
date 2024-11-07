@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Discover",
+        "number": "4011 2546 6011 1234",
+        "expiry_date": "04/27",
+        "cvv": "095"
+    },
+    {
+        "name": "Chase Saphire Preferred",
+        "number": "4012 2873 1234 0101",
+        "expiry_date": "08/27",
+        "cvv": "855"
+    },
+    {
+        "name": "Discover",
+        "number": "4011 9087 2828 2467",
+        "expiry_date": "09/28",
+        "cvv": "123"
+    }
+]
